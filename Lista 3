@@ -127,7 +127,7 @@ http://24h.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22487?token=ThFQWRYNF
 #EXTINF:-1 tvg-logo="" group-title="",PARAMONT HD
 https://assistirtv.xyz/paramount/video.m3u8?token=45a5cd59985b54cccbd80f57428456882f71a30c-425b691399d4871578ebe9024f38ee12-1648779724-1648776124&remote=172.68.177.130
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
-https://assistirtv.xyz/discovery-channel/video.m3u8?token=b63207202c526b9a999c207cf2987dcef0e71bc4-e5cd0465d361f7361f4dc18253579289-1648866571-1648862971&remote=172.68.177.136
+http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AMC
 http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",TNT SERIE
@@ -169,7 +169,7 @@ http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11372
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2BpDwo6pMkkhFWgi7Ngxv0kK8WWbtISJAQ&usqp=CAU" group-title="TV ABERTA", BAND HD
 http://187.33.200.246:8888/http/005
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGTcZumcFAmJNy6fV-8lABrYnOKjlYlOTHA&usqp=CAU" group-title="DOCUMENTÁRIO", DISCOVERY HD
-http://50.7.34.155:2201/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdXeYW_2A057qaGEDVGJNnMwegNuvHLtzAA&usqp=CAU" group-title="DOCUMENTÁRIO", DISCOVERY ID
 http://50.7.34.155:2200/BR/ID_-_Investi_Discovery_HD/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",OFF HD
@@ -231,7 +231,7 @@ http://95.141.37.245:8081/loadbalance/sbt1/chunks.m3u8?nimblesessionid=7456841&w
 #EXTINF:-1 tvg-logo="" group-title="",PARAMONT HD
 https://assistirtv.xyz/paramount/video.m3u8?token=45a5cd59985b54cccbd80f57428456882f71a30c-425b691399d4871578ebe9024f38ee12-1648779724-1648776124&remote=172.68.177.130
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
-https://assistirtv.xyz/discovery-channel/video.m3u8?token=b63207202c526b9a999c207cf2987dcef0e71bc4-e5cd0465d361f7361f4dc18253579289-1648866571-1648862971&remote=172.68.177.136
+http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AMC
 http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",TNT SERIE
@@ -283,7 +283,7 @@ http://23.237.190.122:25461/evasquez/ev2021fwk/182?token=HhdaAEBZEQgUAFsIVlMBAwB
 #EXTINF:-1 tvg-logo="" group-title="",HBO 
 http://23.148.145.53:80/lessamanuel/tnp9IdOvRO/3230?token=TBRQWUZaQ1xABQQBA1IIUAAEBQBWAV8BWwJVUFxSUVwHAAxbAlZTAFREGRtFQEMGAF1oXFEXXAQLAlJKGxQRAEVpUVwXCENUVlQMCg8WHUEVWVpQFw9XAQ0IU18BVVpWGxRIUVEQW0RQUAIIBRYdQQRIQ1BHWwdbZlUHEFACB0cNWE1UWR5DCQw5UVxbVV8HQwoVBRcZRF5KQUBcVxQOCRsUWlFBQAASB0QPGwQAAVdDHBVWWkAIQ0tIQFwbIzBHGxRdQEFXDxULCVsbDBZFEEMcFVxGahRSSkUQA1gMBxcVDBoIFx5DCwMealpZWl8GAkReWltGRA0bAkBKGwwNC15CV0pqQggCQFwXCwADAFpDTQ==
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
-http://50.7.34.155:2201/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",mkk
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12101f0b12f00007844c7c/3063648/playlist.m3u8?return&terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=07b16472-d071-4d2e-ad98-ab98754a4428&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="" group-title="",VIVA 
