@@ -6,8 +6,12 @@ http://95.141.37.245:8081/loadbalance/sbt1/chunks.m3u8?nimblesessionid=7456841&w
 http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",V
 http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
+http://187.85.237.3:8220/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO NOW
 http://103.161.34.118:25461/kdkm3ub840/4mxpah5f4n/122389?token=SkMJURdQEw0aDQYFCwNQAgECBFUPAlsGUVZeBQUBVVMCAFACUggDU1saHRVLEhBXVFhpX10TAwVXUVUIDE8TREIEE28NXBMNGgoBDgpXVhAZF0JfVFQbDlRVUgkEWggAA1FNEhRRVRUCGgMDAFNXEBkXU05NVEtaBA85VFAVWFJUQ1teEVRdGxpXX2hcAw9TW1EUDBsBGxhHChVAF1lfRF0NTRIGUUVFWUxUFQJEUAECAxQaG1JWQQsXFEkXWRNzY0NNEgFARVJWS1hYVkRYEEFGFBobWEprFwYVREcGUFxUE0MKRggTGxpVUE9nBQ1cW1BVQlBeV0dHWUQBF08TXF4PCEQLSm5HUVwTDRpSWwUBF0s=
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO SC
+http://191.37.250.169:8801/live/NSC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SP 
 http://server.globalhd.org:80/babi.morosoli@gmail.com/babi.morosoli@gmail.com/1065
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
@@ -86,6 +90,8 @@ http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11372
 http://cdn2.connectbr.com.br:80/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STAR
 http://187.85.237.3:8220/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="",ARTE 1
+http://187.85.237.34:8825/ipvt_003
 #EXTINF:-1 tvg-logo="" group-title="",LIFETIME
 http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A&E 
@@ -106,7 +112,11 @@ http://valhalla.ottc.pro:80/Pitho_IPTV/5VSNFSITOM/4519
 http://valhalla.ottc.pro:80/Pitho_IPTV/5VSNFSITOM/4521
 #EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
 https://live.xvideosporn.me/p3p/megapix/p2p/megapix_480p/chunks.m3u8?nimblesessionid=1100613&wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDE6MzU6MjMgQU0maGFzaF92YWx1ZT1uZVU0aWVWKzl1elNOdHpReEVSWWFBPT0mdmFsaWRtaW51dGVzPTkw
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
+http://187.85.237.3:8220/ipvt_005
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
+http://187.85.237.34:8825/ipvt_001
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM 
 http://187.85.237.34:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",HBO
 http://cdn2.connectbr.com.br:80/hbo/tracks-v1a1/mono.m3u8
@@ -183,6 +193,8 @@ http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BIS
 http://50.7.34.155:2200/BR/BIS_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",GNT
+http://187.85.237.26:8825/ipvt_005
+#EXTINF:-1 tvg-logo="" group-title="",GNT
 http://50.7.34.155:2201/BR/GNT_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
 http://50.7.34.155:2201/BR/Discovery_Turbo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
@@ -198,8 +210,12 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/6079c1539b05aa00
 http://187.85.237.26:8825/ipvt_006
 #EXTINF:-1 tvg-logo="" group-title="",STAR
 http://187.85.237.3:8220/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="",MULTISHOW
+http://187.85.237.26:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",LIFETIME
 http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PALAVRAS 
+http://187.85.237.26:8825/ipvt_003
 #EXTINF:-1 tvg-logo="" group-title="",A&E 
 http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AXN
@@ -208,6 +224,8 @@ http://cdn2.connectbr.com.br:80/axn/tracks-v1a1/mono.m3u8
 http://cdn2.connectbr.com.br:80/TNT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
 https://live.xvideosporn.me/p3p/megapix/p2p/megapix_480p/chunks.m3u8?nimblesessionid=1100613&wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDE6MzU6MjMgQU0maGFzaF92YWx1ZT1uZVU0aWVWKzl1elNOdHpReEVSWWFBPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE ACTION
+http://187.85.237.26:8825/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE
 http://187.85.237.34:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",HBO
@@ -292,3 +310,7 @@ http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCX
 http://ms5.ddns.me:8805/live/TRAVEL/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",PRIME
 http://ms5.ddns.me:8805/live/PRIME/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TCM
+http://50.7.34.155:2200/BR/tcm-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",E!
+http://187.85.237.34:8825/ipvt_004
