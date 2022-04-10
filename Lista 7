@@ -1,15 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",SBT
-http://95.141.37.245:8081/loadbalance/sbt1/chunks.m3u8?nimblesessionid=7456841&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIyIDExOjEwOjUxIEFNJmhhc2hfdmFsdWU9NVQ1WkNWKzlFZ2dKOGltUjZFZUhwdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="" group-title="",TV N
 http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",VIVA HD
 http://187.85.237.31:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
 http://187.85.237.3:8220/ipvt_004
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO NOW
-http://103.161.34.118:25461/kdkm3ub840/4mxpah5f4n/122389?token=SkMJURdQEw0aDQYFCwNQAgECBFUPAlsGUVZeBQUBVVMCAFACUggDU1saHRVLEhBXVFhpX10TAwVXUVUIDE8TREIEE28NXBMNGgoBDgpXVhAZF0JfVFQbDlRVUgkEWggAA1FNEhRRVRUCGgMDAFNXEBkXU05NVEtaBA85VFAVWFJUQ1teEVRdGxpXX2hcAw9TW1EUDBsBGxhHChVAF1lfRF0NTRIGUUVFWUxUFQJEUAECAxQaG1JWQQsXFEkXWRNzY0NNEgFARVJWS1hYVkRYEEFGFBobWEprFwYVREcGUFxUE0MKRggTGxpVUE9nBQ1cW1BVQlBeV0dHWUQBF08TXF4PCEQLSm5HUVwTDRpSWwUBF0s=
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SC
 http://191.37.250.169:8801/live/NSC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SP 
@@ -243,6 +239,8 @@ http://ms2.ddns.me:8802/live/FXHD/720p.m3u8
 http://cdn2.connectbr.com.br:80/TNT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
 https://live.xvideosporn.me/p3p/megapix/p2p/megapix_480p/chunks.m3u8?nimblesessionid=1100613&wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDE6MzU6MjMgQU0maGFzaF92YWx1ZT1uZVU0aWVWKzl1elNOdHpReEVSWWFBPT0mdmFsaWRtaW51dGVzPTk
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
+http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA 
 http://187.85.237.25:8825/ipvt_005
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE ACTION
@@ -346,3 +344,7 @@ http://187.85.237.34:8825/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",CRIS 24H
 #EXTINF:-1 tvg-logo="" group-title="",JOÃO KLEBER 
 http://187.85.237.31:8825/ipvt_001
+#EXTINF:-1 tvg-logo="" group-title="",O FACINANTE MUNDO DOS CORAIS
+http://lionflixapp.xyz:80/server/token-fhd3/?u=token/04/tt15753666.mp4
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
+http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
