@@ -98,6 +98,8 @@ http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
 http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AXN
 http://cdn2.connectbr.com.br:80/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT HD
+http://ms4.ddns.me:8804/live/TNTHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TNT
 http://cdn2.connectbr.com.br:80/TNT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SEXO 24H
@@ -118,6 +120,8 @@ http://187.85.237.3:8220/ipvt_005
 http://187.85.237.34:8825/ipvt_001
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM 
 http://187.85.237.34:8825/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="",HBO HD
+http://200.4.96.59:8003/play/a023/28389146.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HBO
 http://cdn2.connectbr.com.br:80/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HBO 2
@@ -269,6 +273,8 @@ http://170.82.200.38:80/paramount/tracks-v1a1/mono.m3u8
 http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AMC
 http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",TNT SERIE HD
+http://170.82.200.38:80/tnt_series/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TNT SERIE
 http://50.7.34.155:2200/BR/TNT_Series_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",CINEMAX
@@ -311,6 +317,8 @@ http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/5f12136385bccc00070
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5e8254118601b80007b4b7ae/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5e8254118601b80007b4b7ae&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=4140&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="" group-title="",HBO 
 http://190.171.101.36:80/HBO/tracks-a2/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WARNER BROS HD
+http://200.4.96.59:8003/play/a02r/49031090.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",WARNER BROS
 http://200.4.96.59:8003/play/a02r/75397587.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",WARNER BROS
