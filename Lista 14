@@ -62,7 +62,7 @@ http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?token=fwBlC
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", ANIMAL PLANET SD
 http://50.7.34.155:2201/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC 
-http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_EL3INMRQYpPjqHTGoiB5OhcX_480p.m3u8?auth_id=16804528_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&client_ip=88.165.142.7&user_id=16804528&session_id=3xXpzhxR22h&dev_limit=1&dev_id=351563d3&main_addr=http://vdsx.glletle1.com/v3/youshi/&rst_status=0&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1649772289&token=11649EE90D24786F9859CF0C620D2DE8&media_code=m3_EL3INMRQYpPjqHTGoiB5OhcX_720p
 #EXTINF:-1 tvg-logo="https://www.sbp.com.br/fileadmin/_processed_/5/e/csm_NAtional_Geographic_27b97cc75d.png" group-title="DOCUMENTÁRIO", NETGEO GEOGRAPHIC
 http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXAbs0jsNzc82QVFGi9exEjWOVVqsaENmpg&usqp=CAU" group-title="DOCUMENTÁRIO", NETGEO WILD
@@ -109,8 +109,15 @@ http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3M
 http://ms5.ddns.me:8805/live/TLC/720p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLC HD
 http://170.82.200.35:80/tlc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEyz5WzAZKjY1d0KbdVFA_FDNs_dlnF6NQA&usqp=CAU" group-title="SPORT", COMBATE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEyz5WzAZKjY1d0KbdVFA_FDNs_dlnF6NQA&usqp=CAU"
+group-title="SPORT", COMBATE
 http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEyz5WzAZKjY1d0KbdVFA_FDNs_dlnF6NQA&usqp=CAU"
+group-title="SPORT", COMBATE
+http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_kxiCuVcr9XvcEbXgX_480p.m3u8?session_id=DtNAcrQ3Wdff&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&client_ip=37.165.114.37&app_ver=10101&user_id=16804528&app_id=com.global.brasiltvweb&rst_status=0&main_addr=http://vdsx.glletle1.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&dev_id=351563d3&expired=1649784367&token=73B4BC6E2ABB67EF6396AC05BD9996CF&media_code=m3_kxiCuVcr9XvcEbXgX_480p
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEyz5WzAZKjY1d0KbdVFA_FDNs_dlnF6NQA&usqp=CAU"
+group-title="SPORT", COMBATE HD
+http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_kxiCuVcr9XvcEbXgX_480p.m3u8?session_id=DtNAcrQ3Wdff&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&client_ip=37.165.114.37&app_ver=10101&user_id=16804528&app_id=com.global.brasiltvweb&rst_status=0&main_addr=http://vdsx.glletle1.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&dev_id=351563d3&expired=1649784367&token=73B4BC6E2ABB67EF6396AC05BD9996CF&media_code=m3_kxiCuVcr9XvcEbXgX_1080p
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-hits-2-logo-CADCF9B84B-seeklogo.com.png" group-title="FILMES", STAR HITS 2 HD
 http://50.7.34.155:2201/BR/Star_Hits_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/2560px-Star_Channel_2021.png" group-title="FILMES", STAR CHANNEL HD
@@ -357,3 +364,7 @@ http://lionflixapp.xyz:80/server/token-fhd3/?u=token/04/tt15753666.mp4
 http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-id=""logo="" group-title="",BABY SHART
 https://newidco-babysharktv-2-mx.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MUNDO VIAGEM 
+http://phru6b.lkg1fl1pt.com:80/v3/youshi/m1_2LIrTCQ1mvJKo4U7Me0sylfz_480p.m3u8?auth_id=16804528_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&client_ip=88.165.142.7&user_id=16804528&session_id=3xXpzhxR22h&dev_limit=1&dev_id=351563d3&main_addr=http://vdsx.glletle1.com/v3/youshi/&rst_status=0&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1649772289&token=11649EE90D24786F9859CF0C620D2DE8&media_code=m1_2LIrTCQ1mvJKo4U7Me0sylfz_480p
+#EXTINF:-1 tvg-logo="" group-title="",LIKE HD
+http://phru6b.lkg1fl1pt.com:80/v3/youshi/m4_GqFJ0aOt0pVJZxaDc2Xl_480p.m3u8?auth_id=16804528_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&client_ip=88.165.142.7&user_id=16804528&session_id=3xXpzhxR22h&dev_limit=1&dev_id=351563d3&main_addr=http://vdsx.glletle1.com/v3/youshi/&rst_status=0&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1649772289&token=11649EE90D24786F9859CF0C620D2DE8&media_code=m4_GqFJ0aOt0pVJZxaDc2Xl_720p
