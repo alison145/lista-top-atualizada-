@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
-http://50.7.34.155:2200/BR/Viva_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",VIVA HD
 http://187.85.237.31:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",VIVA 
@@ -18,7 +18,7 @@ http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/88266
 #EXTINF:-1 tvg-logo="" group-title="",SBT PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SBT MT
-http://wz4.dnip.com.br:80/bemtv/bemtv.sdp/chunklist_w1518277609.m3u8
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1698838283_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SBT AO VIVO
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w1732543709.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="TV ABERTA", SBT HD
@@ -53,6 +53,8 @@ https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
 http://50.7.34.155:2200/BR/Viva_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",TRUTV
+http://pfsv.io:80/07720253/51853/350
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET HD z
 http://pfsv.io:80/07720253/51853/179
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET SD
@@ -61,6 +63,8 @@ http://189.16.194.19:8010/05/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", ANIMAL PLANET 
 http://suatela-server.b-cdn.net/live/animalplanet/chunks.m3u8?token=EZPi6XfzxXpnokPf_vs08kd4rbgTVdjncaeF0Kr6KE0&expires=1649860506
+#EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC
+http://190.15.32.30:80/94/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC 
 http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_EL3INMRQYpPjqHTGoiB5OhcX_480p.m3u8?auth_id=16804528_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&client_ip=88.165.142.7&user_id=16804528&session_id=3xXpzhxR22h&dev_limit=1&dev_id=351563d3&main_addr=http://vdsx.glletle1.com/v3/youshi/&rst_status=0&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1649772289&token=11649EE90D24786F9859CF0C620D2DE8&media_code=m3_EL3INMRQYpPjqHTGoiB5OhcX_720p
 #EXTINF:-1 tvg-logo="https://www.sbp.com.br/fileadmin/_processed_/5/e/csm_NAtional_Geographic_27b97cc75d.png" group-title="DOCUMENTÁRIO", NETGEO GEOGRAPHIC
@@ -69,10 +73,14 @@ http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3M
 http://50.7.34.155:2201/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO WILD HD
 http://143.244.35.170:25461/nzWAjDJurS/LyrbEXFBBg/1586?token=GkMOV0pdG18SAlBRAldfUQcGDwBRUg1VUAECAVdVAlZSAAcFDgwIVgkXGUNHFxRXAllmXVYVDgdRCFBJExAQBBM+D1IbDxtTAgcAVg1BShAXXVRREA0FAFAJV1UGUVdRTUMWX10XA0cGDA1VFk9EVxtAXEZcVlhpAFUQDFIAQVsPFApaFRdWC29RUAxVDQIQWRYJFh4VXUUUElwLRAkPTUMDD0JLVE0AEg8XUgRTUxBPFlpbR1lARB0SXEdzN0FNQwQeQlxbSgxfWxdbFhcVEE8WUEdtRVFFEEIDBFwAEUNbQ1YUFRdUBEhqVg5aDQNRF11WWkEVDhRXEkpHXAoNCBUOFGlJXF1HChcGUAxVRE8=
+
+http://suatela-server.b-cdn.net/live/discoverychannel/chunks.m3u8?token=ARNSr2j_qxSnvs3jeopiZA23IMXu2X7w4CdfYYP_wnE&expires=1650095404
+
+
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
 http://51.81.83.140:8080/tvonline52022/temp=cache6H=3454334788912345344567==/23?token=QkRfV0JaQV5AUQUJAQUAUQVWCAIFAFBcAAVYUQECUA0AUVEEVAoHVFpBSBJDQRNQVF1uWVcXCQoBTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBAgHBQYCDgNPGxFRVUMDG1QPAAACQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTAFBUW0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQABlBRU0EZ
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY z
-http://suatela-server.b-cdn.net/live/discoverychannel/chunks.m3u8?token=81DflB0nZz2x3h_OMQ_efLKs52U3AtHknjaLbGn7zSQ&expires=1650025119
+http://suatela-server.b-cdn.net/live/discoverychannel/chunks.m3u8?token=ARNSr2j_qxSnvs3jeopiZA23IMXu2X7w4CdfYYP_wnE&expires=1650095404
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
 http://pfsv.io:80/07720253/51853/196
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
@@ -108,9 +116,6 @@ http://suatela-server.b-cdn.net/live/history/chunks.m3u8?token=rtyJ1XXpaNKeoZu5j
 
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI HD
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI HD
 http://187.85.237.32:8825/ipvt_007
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-3.png" group-title="DOCUMENTÁRIO", HISTÓRI HD
@@ -119,6 +124,8 @@ http://50.7.34.155:2200/BR/The_History_Channel_HD-br/index.m3u8?token=fwBlCndpe3
 http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO 
 http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC SD
+http://170.82.200.35:80/tlc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC SD
 http://ms5.ddns.me:8805/live/TLC/720p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLC HD
@@ -150,6 +157,8 @@ http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/329
 http://187.85.237.3:8220/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",ARTE 1
 http://187.85.237.34:8825/ipvt_003
+#EXTINF:-1 tvg-logo="" group-title="",LIFETIME HD
+http://187.85.237.32:8825/ipvt_001
 #EXTINF:-1 tvg-logo="" group-title="",LIFETIME
 http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A&E 
@@ -164,6 +173,8 @@ http://cdn2.connectbr.com.br:80/TNT/tracks-v1a1/mono.m3u8
 http://cdn.adultiptv.net:80/bigass.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",G PLUS
 http://143.244.35.175:25461/isaiascanchis/2qppP9BVsX/780?token=DpbAEEOFAYFVVUOAB
+#EXTINF:-1 tvg-logo="" group-title="",PARAMONT+
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/60072798dcf437000755b4f3/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9222c482-23a9-11ec-814d-c9455e72eab8&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=bca7cae1-d7dc-4faf-a3e9-4e3ef654e13b&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="" group-title="",PARAMONT HD 
 http://172.106.19.174:80/HD_PARAMOUNT_ALTER/mpegts?token=27f3babf1583d5e9f6a1eb92359a71d757e0c941fbda4057c112df13269121c5.1649211002303.94a2d48cf11e6dd073bf61c944b87d27
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE EMOTION
@@ -297,6 +308,8 @@ http://cdn2.connectbr.com.br:80/hbo/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2201/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",HBO POP
 http://50.7.34.155:2201/BR/HBO_POP_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",HBO+
+http://50.7.34.155:2200/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",HBO PLUS
 http://50.7.34.155:2201/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",HBO SIGNATURE
@@ -391,4 +404,6 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1210d14ae1f800
 #EXTINF:-1 tvg-logo="" group-title="",SUSPENCE
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f171d3442a0500007362f22/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="" group-title="",WOOHOO
-http://pfsv.io:80/live/4728393567/28086/7.m3u8
+http://168.205.87.198:8555/live/adriana/123456/141.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HGTV
+http://ms5.ddns.me:8805/live/HGTV/720p.m3u8
