@@ -9,8 +9,12 @@ http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=7584082&w
 http://187.85.237.3:8220/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SC
 http://191.37.250.169:8801/live/NSC/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO SC
+http://191.37.250.169:8801/live/NSC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SP 
 http://server.globalhd.org:80/babi.morosoli@gmail.com/babi.morosoli@gmail.com/1065
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO PR
+http://170.82.200.35:80/globo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
 http://appcliente.com:8880/edu21/edu21/16716?checkedby
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO PREMIUM 
@@ -63,6 +67,8 @@ http://189.16.194.19:8010/05/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", ANIMAL PLANET 
 http://suatela-server.b-cdn.net/live/animalplanet/chunks.m3u8?token=EZPi6XfzxXpnokPf_vs08kd4rbgTVdjncaeF0Kr6KE0&expires=1649860506
+#EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC z
+http://190.15.32.30:80/94/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC
 http://190.15.32.30:80/94/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC 
@@ -234,8 +240,8 @@ http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2201/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",CURTA
 http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-#EXTINF:-1 tvg-logo="" group-title="",HBO EXTREME
-http://200.4.96.59:8002/play/a0f1/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="",TNT 
 http://tvusa.ddns.net:25461/valdinei.alves79@gmail.com/d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db/359
 #EXTINF:-1 tvg-logo="" group-title="",TNT SERIE 
@@ -407,3 +413,5 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f171d3442a05000
 http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HGTV
 http://ms5.ddns.me:8805/live/HGTV/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RA TIM BUM
+http://168.205.87.198:8555/live/adriana/123456/84.m3u8
