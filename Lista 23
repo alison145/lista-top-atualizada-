@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
-http://50.7.34.155:2200/BR/Viva_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://suatela-server.b-cdn.net:80/live/viva/chunks.m3u8?token=JdSnV4EIRzkIpUJVN8AFfWH31AU2SBSANQ_c0F7ujwg?md5=null
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
+http://phru6b.lkg1fl1pt.com/v3/youshi/m2_B970234nI2fnC98Gg59m_web.m3u8?client_ip=88.165.142.7&app_ver=10101&user_id=16804528&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&session_id=DY9CpxCbB2oN&app_id=com.global.brasiltvweb&dev_id=351563d3&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&rst_status=0&expired=1650596525&token=6A875690B96BC1000906B4CD474E469C&media_code=m2_B970234nI2fnC98Gg59m_web
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
 http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",VIVA HD
@@ -9,6 +11,8 @@ http://187.85.237.31:8825/ipvt_002
 http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=7584082&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjIgMjoxMTo1MiBBTSZoYXNoX3ZhbHVlPWx4MndXS1k5UVJWd0o3aGltVHdzaHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
 http://187.85.237.3:8220/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
+http://187.85.237.3:8220/ipvt_001
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SC
 http://191.37.250.169:8801/live/NSC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
@@ -17,6 +21,8 @@ http://168.205.87.198:8555/live/aleixo/123456/70.m3u8
 http://server.globalhd.org:80/babi.morosoli@gmail.com/babi.morosoli@gmail.com/1065
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO PR
 http://170.82.200.35:80/globo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO HD 
+http://187.85.237.3:8220/ipvt_001
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
 http://appcliente.com:8880/edu21/edu21/16716?checkedby
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO PREMIUM 
@@ -85,14 +91,14 @@ http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3M
 http://50.7.34.155:2201/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO WILD HD
 http://143.244.35.170:25461/nzWAjDJurS/LyrbEXFBBg/1586?token=GkMOV0pdG18SAlBRAldfUQcGDwBRUg1VUAECAVdVAlZSAAcFDgwIVgkXGUNHFxRXAllmXVYVDgdRCFBJExAQBBM+D1IbDxtTAgcAVg1BShAXXVRREA0FAFAJV1UGUVdRTUMWX10XA0cGDA1VFk9EVxtAXEZcVlhpAFUQDFIAQVsPFApaFRdWC29RUAxVDQIQWRYJFh4VXUUUElwLRAkPTUMDD0JLVE0AEg8XUgRTUxBPFlpbR1lARB0SXEdzN0FNQwQeQlxbSgxfWxdbFhcVEE8WUEdtRVFFEEIDBFwAEUNbQ1YUFRdUBEhqVg5aDQNRF11WWkEVDhRXEkpHXAoNCBUOFGlJXF1HChcGUAxVRE8=
-
-http://suatela-server.b-cdn.net/live/discoverychannel/chunks.m3u8?token=ARNSr2j_qxSnvs3jeopiZA23IMXu2X7w4CdfYYP_wnE&expires=1650095404
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
-http://51.81.83.140:8080/tvonline52022/temp=cache6H=3454334788912345344567==/23?token=QkRfV0JaQV5AUQUJAQUAUQVWCAIFAFBcAAVYUQECUA0AUVEEVAoHVFpBSBJDQRNQVF1uWVcXCQoBTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBAgHBQYCDgNPGxFRVUMDG1QPAAACQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTAFBUW0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQABlBRU0EZ
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 7
+http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TV tp
+http://143.244.35.146:80/HD_DISCOVERY/video.m3u8?token=e0b3901d7f0619440fa90f5e006c071ab7b0ce7d34052d3f5375ddc38f631d52.1650280473130.f10a313e7de67472e332aab64f6b5bdd
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY z
 http://suatela-server.b-cdn.net/live/discoverychannel/chunks.m3u8?token=ARNSr2j_qxSnvs3jeopiZA23IMXu2X7w4CdfYYP_wnE&expires=1650095404
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
-http://pfsv.io:80/07720253/51853/196
+http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
 http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 0
@@ -151,23 +157,19 @@ group-title="SPORT",COMBATE HD
 http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_kxiCuVcr9XvcEbXgX_480p.m3u8?session_id=DtNAcrQ3Wdff&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&client_ip=37.165.114.37&app_ver=10101&user_id=16804528&app_id=com.global.brasiltvweb&rst_status=0&main_addr=http://vdsx.glletle1.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&dev_id=351563d3&expired=1649784367&token=73B4BC6E2ABB67EF6396AC05BD9996CF&media_code=m3_kxiCuVcr9XvcEbXgX_1080p
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-hits-2-logo-CADCF9B84B-seeklogo.com.png" group-title="FILMES", STAR HITS 2 HD
 http://50.7.34.155:2201/BR/Star_Hits_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/2560px-Star_Channel_2021.png" group-title="FILMES", STAR CHANNEL HD
-http://50.7.34.155:2201/BR/Star_Channel-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="FILMES", STAR CHANNEL HD
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0az8-ByzzCw57wklFMMH7PwtvC6tZ_IWaQ&usqp=CAU" group-title="FILMES", WARNER CHANNEL HD
 http://50.7.34.155:2201/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlLKpIDqNmMeuTsfsDU985UOy6aYE3sBRaJw&usqp=CAU" group-title="ANIMES", DRAGON BOLL Z
 http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22487
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxuhiZq2nnE_LWLArJ1boWAmRbcPV2bU9Itg&usqp=CAU" group-title="ANIMES", CAVERNA DO DRAGAO SD
-http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11372
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxuhiZq2nnE_LWLArJ1boWAmRbcPV2bU9Itg&usqp=CAU" group-title="ANIMES",BOBY ESPONJA 
+http://212.102.60.67:80/live/ceka78/ceka287/43860.m3u8?token=amd2elZMTGZhRllVeWRm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTprMj7HvSBIM9lvI5CdzHZeRkva_KFhULEAA&usqp=CAU" group-title="FILMES", SPACE HD
 http://cdn2.connectbr.com.br:80/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STAR
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/329
 #EXTINF:-1 tvg-logo="" group-title="",STAR
 http://187.85.237.3:8220/ipvt_002
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="",ARTE 1
 http://187.85.237.34:8825/ipvt_003
 #EXTINF:-1 tvg-logo="" group-title="",LIFETIME HD
@@ -217,6 +219,8 @@ http://50.7.34.155:2201/BR/HBO_Signature_HD-br/tracks-v1a1/mono.m3u8?token=fwBlC
 #EXTINF:-1 tvg-logo="" group-title="",HBO FAMILY
 http://50.7.34.155:2201/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL 
+http://phru6b.lkg1fl1pt.com/v3/youshi/m1_ogSCRrzxs0vYaDtjUXi6cuO7_480p.m3u8?client_ip=88.165.142.7&app_ver=10101&user_id=16804528&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&session_id=DY9CpxCbB2oN&app_id=com.global.brasiltvweb&dev_id=351563d3&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&rst_status=0&expired=1650596525&token=6A875690B96BC1000906B4CD474E469C&media_code=m1_ogSCRrzxs0vYaDtjUXi6cuO7_480p
+#EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL 
 http://24h.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22487?token=ThFQWRYNFA8aD1wGV1MCBwNSXAUKU1pWUgMEBQBbXFcAUgpeUQFUA1kUFRUVQUIAVF1nDV0QA1MFBloBThoRQVBBZ1EBRwwXDAYOBEQZEhFcXV1GAwMPVQ8GUQdVAFAeF0NRXEdfFAcOBgADRBkSAE1EXRZXU1U+U1cUXwFdRghbRlRUSUdZW2dSXFoHW1RHDxIIRhUQUBJHEFhYF1QIHhdRUUwXBEJQGgwbA14GEkkXU1cRV0ZLGBUIQHQwGkgQUEtMXQsWX1pWFAMVEkYSSRdZSztLV0oVRVcDWwdKRggXAxoURwhXTWdVVlkIUFMRXF9WFxsIG1MGAlIUThoJXVtaTFcXOkZcXBQDFVAGCVMXTQ==
 #EXTINF:-1 tvg-logo="" group-title="",PARAMONT HD
 https://assistirtv.xyz/paramount/video.m3u8?token=45a5cd59985b54cccbd80f57428456882f71a30c-425b691399d4871578ebe9024f38ee12-1648779724-1648776124&remote=172.68.177.130
@@ -232,6 +236,8 @@ http://50.7.34.155:2201/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3M
 #EXTINF:-1 tvg-logo="" group-title="",SONY
 http://50.7.34.155:2201/BR/Canal_Sony_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",SPACE 
+http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/82?token=QkRfV0JaQV5AUVJVBwQFAAEABgcHA1cKAwJaVQoCVF0AXw5XCFFTUVFBSBJDQRNQVF1uWVcXCQAATxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEFAgUGDQZPGxFRVUMDG1cEDwUQT0YHGxBVQlsAWWpUVEZaVlYaCA1MDVQdQ1ZXOVNTXFMNAEBZRgASGUNcRkATCl1AX1QeQVsITEMATVxEDRQAAFJVQE9GU19AD0FHSRMKEXdhGh5BXBlMVA9KUAlZFAsQFxdAT0ZZQ2oTUEZEQ1VSWFZKEFkbURodQ1RYHmhVXlwNAQEXDV9eRkMPFwATHBFYXFZbF1YTZ0EIXRtcFQMBAVRGHw==
+#EXTINF:-1 tvg-logo="" group-title="",SPACE
 http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",SYFY
 http://50.7.34.155:2201/BR/SyFy_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
@@ -309,8 +315,12 @@ https://live.xvideosporn.me/p3p/megapix/p2p/megapix_480p/chunks.m3u8?nimblesessi
 http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA 
 http://187.85.237.25:8825/ipvt_005
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
+http://187.85.237.34:8825/ipvt_001
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE ACTION
 http://187.85.237.26:8825/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM 
+http://187.85.237.34:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE
 http://187.85.237.34:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",HBO
@@ -341,6 +351,8 @@ http://200.4.96.59:8002/play/a0ez/22472001.m3u8
 http://187.85.237.5:8222/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",SPACE z
 http://suatela-server.b-cdn.net/live/space/chunks.m3u8?token=halSrgglRj9Cohfjajm1O5sFvTrJ2nzlyZMfyWvMBn8&expires=1649862195
+#EXTINF:-1 tvg-logo="" group-title="",SPACE 0
+http://phru6b.lkg1fl1pt.com/v3/youshi/m4_ymZnQGTRxLhgzKBYlOekpfso_480p.m3u8?client_ip=88.165.142.7&app_ver=10101&user_id=16804528&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&session_id=DY9CpxCbB2oN&app_id=com.global.brasiltvweb&dev_id=351563d3&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&rst_status=0&expired=1650596525&token=6A875690B96BC1000906B4CD474E469C&media_code=m4_ymZnQGTRxLhgzKBYlOekpfso_480p
 #EXTINF:-1 tvg-logo="" group-title="",SPACE
 http://170.82.200.35:80/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SYFY
@@ -439,3 +451,11 @@ http://168.205.87.198:8555/live/aleixo/123456/193.m3u8
 http://168.205.87.198:8555/live/aleixo/123456/195.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FONDOM TV
 http://168.205.87.198:8555/live/aleixo/123456/197.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NICKELODEON
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12151794c1800007a8ae63/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="", NATUREZA AMOR
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",24H 
+http://hlsliveamdgl8-lh.akamaihd.net:80/i/hlsdvrlive_1@583030/segment11214311_1500_av-b.ts?sd=10
+#EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL Z
+http://phru6b.lkg1fl1pt.com/v3/youshi/m3_8fgWRnDHFVZESAI0NM5GxJml_480p.m3u8?client_ip=88.165.142.7&app_ver=10101&user_id=16804528&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&session_id=DY9CpxCbB2oN&app_id=com.global.brasiltvweb&dev_id=351563d3&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&rst_status=0&expired=1650596525&token=6A875690B96BC1000906B4CD474E469C&media_code=m3_8fgWRnDHFVZESAI0NM5GxJml_480p
