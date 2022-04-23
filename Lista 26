@@ -128,6 +128,8 @@ http://50.7.34.155:2201/BR/Discovery_World_HD-br/tracks-a2/mono.m3u8?token=fwBlC
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY THEATER
 http://50.7.34.155:2201/BR/Discovery_Theater_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
+http://189.16.194.19:8010/01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
 http://50.7.34.155:2200/BR/Disc-_Home_Health_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",OFF HD
 http://50.7.34.155:2201/BR/OFF_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
@@ -160,6 +162,8 @@ group-title="SPORT",COMBATE HD
 http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_kxiCuVcr9XvcEbXgX_480p.m3u8?session_id=DtNAcrQ3Wdff&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&client_ip=37.165.114.37&app_ver=10101&user_id=16804528&app_id=com.global.brasiltvweb&rst_status=0&main_addr=http://vdsx.glletle1.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&dev_id=351563d3&expired=1649784367&token=73B4BC6E2ABB67EF6396AC05BD9996CF&media_code=m3_kxiCuVcr9XvcEbXgX_1080p
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-hits-2-logo-CADCF9B84B-seeklogo.com.png" group-title="FILMES", STAR HITS 2 HD
 http://50.7.34.155:2201/BR/Star_Hits_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",STAR
+http://190.15.32.30:80/106/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STAR
 http://187.85.237.3:8220/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",STAR
