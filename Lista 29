@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
-http://suatela-server.b-cdn.net:80/live/viva/chunks.m3u8?token=JdSnV4EIRzkIpUJVN8AFfWH31AU2SBSANQ_c0F7ujwg?md5=null
-#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
-http://phru6b.lkg1fl1pt.com/v3/youshi/m2_B970234nI2fnC98Gg59m_web.m3u8?client_ip=88.165.142.7&app_ver=10101&user_id=16804528&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&session_id=DY9CpxCbB2oN&app_id=com.global.brasiltvweb&dev_id=351563d3&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&rst_status=0&expired=1650596525&token=6A875690B96BC1000906B4CD474E469C&media_code=m2_B970234nI2fnC98Gg59m_web
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
+http://51.81.83.140:8080/tvonline52022/temp=cache6H=23523532526262345232685==/247?token=QkRfV0JaQV5AAlBTBAZVUVAJCAQBUAoLA1FaAF5QWAsIUQQDBlRbUQRBSBJDQRNQVF1uWVcXCQoGVBVDTUIES2YPUxQLEFJGTkEQWV1QQw8EBgQBBQMADgJbFUNIWAUbA0QGAwEAV0ZOQQFIRFATW1RcblRWQ1pbV0EDD01dDRUbCVlpVVcOBQwHRgoSBUMZF1lCQBEPXU1eDxVDWlgVS1gSUhQLEFJWU1dGHBJWDkBbRENJEQ8RemBBFUNdSRVcVxVeWV8QWUYWEEYcElwSakdVQkRBUFJVVxEbWxoBQxUbC1ZOblEMCgwGB0RZWg9GFwoTABEZEVVdDVAVV0M+SVACFQwTA1ZSW1ZGTQ==
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
 http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",VIVA HD
 http://187.85.237.31:8825/ipvt_002
-#EXTINF:-1 tvg-logo="" group-title="",NOVELAS 
-http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=&architecture=&deviceId=71abe120-c44d-4304-8b20-3d214834b5f8&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&sid=SAMSUNG-TVPLUS-0aa911c2-7dd5-4085-b089-a63a9c5a0be4&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=samsung&userId=&appName=&deviceUA=
 #EXTINF:-1 tvg-logo="" group-title="",VIVA 
 http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=7584082&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjIgMjoxMTo1MiBBTSZoYXNoX3ZhbHVlPWx4MndXS1k5UVJWd0o3aGltVHdzaHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 tvg-logo="" group-title="",AMERICA NEW
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
 http://187.85.237.3:8220/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
@@ -33,6 +31,8 @@ http://appcliente.com:8880/edu21/edu21/16716?checkedby
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/88266
 #EXTINF:-1 tvg-logo="" group-title="",SBT 
 http://170.82.200.35:80/sbt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBT HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1955458263_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SBT HD
 http://168.205.87.198:8555/live/adriana/123456/104.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SBT PE
@@ -355,7 +355,7 @@ http://187.85.237.5:8222/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",SYFY
 http://50.7.34.155:2201/BR/SyFy_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",SYFY
-http://50.7.34.155:2201/BR/SyFy_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://190.15.32.30:80/99/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL 
 http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL HD
@@ -384,6 +384,8 @@ http://187.85.237.31:8825/ipvt_004
 http://170.82.200.38:80/comedy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL
 http://50.7.34.155:2200/BR/Comedy_Central_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",REDE BRASIL
+http://168.205.87.198:8555/live/aleixo
 #EXTINF:-1 tvg-logo="" group-title="",MULTISHOW 
 http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",MTV
@@ -442,8 +444,6 @@ http://168.205.87.198:8555/live/aleixo/123456/142.m3u8
 http://168.205.87.198:8555/live/aleixo/123456/143.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ANIMES
 http://168.205.87.198:8555/live/aleixo/123456/146.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",REDE BRASIL
-http://168.205.87.198:8555/live/aleixo/123456/147.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CHAVES
 http://168.205.87.198:8555/live/aleixo/123456/159.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SERIES CLASSICAS
@@ -460,20 +460,22 @@ http://168.205.87.198:8555/live/aleixo/123456/197.m3u8
 http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NICKELODEON
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12151794c1800007a8ae63/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
-#EXTINF:-1 tvg-logo="" group-title="",24H 
-http://hlsliveamdgl8-lh.akamaihd.net:80/i/hlsdvrlive_1@583030/segment11214311_1500_av-b.ts?sd=10
-#EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL Z
-http://phru6b.lkg1fl1pt.com/v3/youshi/m3_8fgWRnDHFVZESAI0NM5GxJml_480p.m3u8?client_ip=88.165.142.7&app_ver=10101&user_id=16804528&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&session_id=DY9CpxCbB2oN&app_id=com.global.brasiltvweb&dev_id=351563d3&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&rst_status=0&expired=1650596525&token=6A875690B96BC1000906B4CD474E469C&media_code=m3_8fgWRnDHFVZESAI0NM5GxJml_480p
 #EXTINF:-1 tvg-logo="" group-title="",BOOB
 http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/47?token=QkRfV0JaQV5ABgEACAMAUA0DBFQDAlIIBQAIBA8AAAkLAwIOVwtSAVFBSBJDQRNQVF1uWVcXCQwFTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEFCgYCDgpPGxFRVUMDG1UGBgEHQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1ZWU0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClNTQB4=
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids z
+http://95.141.37.245:8081/loadbalance/cartoon/chunks.m3u8?nimblesessionid=7959782&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIyIDE6Mjk6NDUgQU0maGFzaF92YWx1ZT1TOFVCbWIxYTRLQm95Nk1aV25oRi9nPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids 
 http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/43?token=QkRfV0JaQV5AVVJUVQxTUVcAVAkDA1BeAgIOVwoIA1gKUFNTBwtWVQBBSBJDQRNQVF1uWVcXCQwBTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEFCgYBAABPGxFRVUMDG1cPBQMFQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1pSUkFIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFBVtdQB4=
+#EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL o
+http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=8148914&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMTI6Mjg6NDUgQU0maGFzaF92YWx1ZT1UWGdwOEtuQlVtQWJRMEZGQS9QcmN3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL 
 http://189.16.194.19:8010/02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BLOBINHO 
 http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/48?token=QkRfV0JaQV5AAQcHCQJRAAJUBVNVDVdeBQEPVgABAlgKAwRSBwIABQRBSBJDQRNQVF1uWVcXCQwKTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEHBQEHDQVPGxFRVUMDG1QOAgUCQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1BcVUFIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClJVQB4=
 #EXTINF:-1 tvg-logo="" group-title="",BLOBINHO 
 http://190.15.32.30:80/8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TOON
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:-1 tvg-logo="" group-title="",TOONCAST HD 
 http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/51?token=QkRfV0JaQV5AAVEJVFdYAVRUCQkKUQQOVAULV1wGVghcBQFQCAcGXAdBSBJDQRNQVF1uWVcXCQ0DTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEHBQIHDQdPGxFRVUMDG1QPDgcDQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1dcW0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClFdQB4=
 #EXTINF:-1 tvg-logo="" group-title="",CARTOONITO 
@@ -500,3 +502,9 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/6079c1539b05aa00
 http://195.154.174.135:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137491?token=HRpcWENeFw0WVVRVBQgHUQgGBwcBDApRBVINAAcDVgJeXgQNAg8GAgIWTUcSRUcDUFhoCgcbCFUEBw0LBBtHRxVdRmZZUhcNFgNDSUNFXAtUFw1SVQwCUg8ACAAMG0dCD1wWAxIEBwAAFk1HBElBA0NbVg88XVcSXlNcEA9ZEF4KFBZWXmlRUllVDwFDCxdWExkVChBJEF5ZRVVeGRUHWxJKVU1VFA8VBgVRVEMdFwVeQFkXEUAQXhVyaxAZFQBKEl1aSllZWxUOFhUWQx0XD0JqRQYQTUABVl1cQBcNRwNEFBZUUU5qVFtaDwACRVwJX0YVWUEIB1QVHBtfWlkMRglKa0lZUhcNFgVTU1UTSA==
 #EXTINF:-1 tvg-logo="" group-title="",filme clássico 
 http://195.154.174.135:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137495?token=HRpcWENeFw0WUFYHUlUGAAlWVFtRXQpVUwENUVFSXAMAWVEPCFNUBQ0WTUcSRUcDUFhoCgcbCFUEBw0LABtHRxVdRmZZUhcNFgNDSUNFXAtUFw1SVQwCUg8ADQIFG0dCD1wWAxIEBgIDFk1HBElBA0NbVg88XVcSXlNcEA9ZEF4KFBZWXmlRUllVDwFDCxdWExkVChBJEF5ZRVVeGRUHWxJKVU1VFA8VBQVXXEMdFwVeQFkXEUAQXhVyaxAZFQBKEl1aSllZWxUOFhUWQx0XD0JqRQYQTUABVl1cQBcNRwNEFBZUUU5qVFtaDwACRVwJX0YVWUEIB1QVHBtfWlkMRglKa0lZUhcNFgVSUVYTSA==
+#EXTINF:-1 tvg-logo="" group-title="",UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w985115768.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CON
+https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SPORTS TV
+https://cdn1.xvideosporn.me/p2p/sportv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjIgNjoyMzozMCBBTSZoYXNoX3ZhbHVlPVk4OFFCS3A3WUZYWE56dzRmMHMvZGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
