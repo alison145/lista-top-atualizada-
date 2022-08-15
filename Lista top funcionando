@@ -1,0 +1,313 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", VIVA
+http://195.181.169.42:80/live/luciano196/luciano196/36997.ts?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQVVDQ1STUAWElRFaFpTEg4aUlYCAA8BVxYfEkwNCFFBDFICAlVUVFBYBQUbEUdZUBpZRgcOBwdaFh8SXRwRURFYAlhrAQQUCgJUFQ0RFRwWVw07Vl1aVQxQEQoaVEcYQV8QRBZfDxcPDR0VVVpDQlVMBkYIGgYGUAURHBoHCkENQhFNFl9DIDFDHRVSS0NVWksKC1waDRYWRxEcGg0WaxFTEEBGAAAPBhMTDRUDFRwWVQIcbVtYWgxRUERRCwtHQQxBBRZJQw8MD1hDWEFoQF1cQV4QCQ8FUAYBEkU=
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMERICA NEW
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NEW
+http://187.85.237.3:8220/ipvt_004
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NEW
+http://187.85.237.3:8220/ipvt_001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO SC
+http://191.37.250.169:8801/live/NSC/720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO SP
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w643317548_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO HD
+http://187.85.237.3:8220/ipvt_001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO FHD
+http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1955458263_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT MT
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1698838283_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT AO VIVO
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w1732543709.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="TV ABERTA", SBT HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1817693431_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT MT
+http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT S
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO SP
+http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1648457650-1648414450
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png" group-title="TV ABERTA", RECORD HD
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AGRO BRASIL
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMERICA TERROR
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET SD
+http://45.232.196.7:5000/live/ANIMALPLANET/720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", ANIMAL PLANET MAX
+http://45.232.196.7:5000/live/ANIMALPLANET/720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", ANIMAL PLANET
+http://45.232.196.7:5000/live/ANIMALPLANET/720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", ANIMAL PLANET MAX
+http://acsc.cc:80/0672648180/fireurl.co/71776.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NATUREZA AMOR
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY MAX 1
+http://pfsv.io:80/live/carlinhos01/carlinhos01/181.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY MAX 2
+http://pfsv.io:80/live/carlinhos01/carlinhos01/181.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E
+http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E HD
+http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdXeYW_2A057qaGEDVGJNnMwegNuvHLtzAA&usqp=CAU" group-title="DOCUMENTÁRIO", DISCOVERY ID
+http://pfsv.io:80/live/carlinhos01/carlinhos01/190.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO MAX
+http://45.232.196.7:5000/live/DISCTUR/720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WOLD
+http://143.244.35.146:80/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=2cbdd399e3a155d29a948c106e4ff67cd4b4287ec3a4c1971e66039abe3f164b.1649117891528.f10a313e7de67472e332aab64f6b5bdd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H
+http://pfsv.io:80/live/carlinhos01/carlinhos01/198.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", HISTÓRI HD MAX
+http://187.85.237.32:8825/ipvt_007
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", HISTÓRI 2 HD
+http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC
+http://tv.minhalista.me:80/live/luciano196/luciano196/37036.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE HD
+http://pfsv.io:80/live/carlinhos01/carlinhos01/257.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/329
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR
+http://187.85.237.3:8220/ipvt_002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MEGAPIX z
+http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1761453494.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTprMj7HvSBIM9lvI5CdzHZeRkva_KFhULEAA&usqp=CAU" group-title="FILMES", SPACE HD
+http://cdn2.connectbr.com.br:80/space/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ARTE 1
+http://187.85.237.34:8825/ipvt_003
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIFETIME HD MAX
+https://cdn.connectbr.com.br/lifetime/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIFETIME HD
+http://187.85.237.32:8825/ipvt_001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIFETIME
+http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN HD
+http://187.85.237.8:8825/ipvt_005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN
+http://cdn2.connectbr.com.br:80/axn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN
+http://cdn2.connectbr.com.br:80/axn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SPORT
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SERIE
+http://cdn.connectbr.com.br:80/TNTSeries/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMONT+
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/60072798dcf437000755b4f3/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9222c482-23a9-11ec-814d-c9455e72eab8&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=bca7cae1-d7dc-4faf-a3e9-4e3ef654e13b&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMONT HD
+http://170.82.200.38:80/paramount/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PIPOCA
+http://187.85.237.25:8825/ipvt_005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE CULT
+http://187.85.237.34:8825/ipvt_001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PREMIUM
+http://187.85.237.34:8825/ipvt_002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE
+http://187.85.237.34:8825/ipvt_002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE TOUCH
+http://187.85.237.3:8220/ipvt_005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE CULT
+http://187.85.237.34:8825/ipvt_001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PREMIUM
+http://187.85.237.34:8825/ipvt_002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SONY
+http://187.85.237.5:8222/ipvt_004
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SONY
+http://187.85.237.5:8222/ipvt_004
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SONY
+http://187.85.237.5:8222/ipvt_004
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC FHD
+http://45.232.196.7:5000/live/AMC/720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL HD
+http://170.82.200.38:80/comedy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL
+http://pfsv.io:80/live/carlinhos01/carlinhos01/106.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV
+http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV
+http://187.85.237.8:8825/ipvt_004
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIFETIME
+http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", mkk
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12101f0b12f00007844c7c/3063648/playlist.m3u8?return&terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=07b16472-d071-4d2e-ad98-ab98754a4428&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E!
+http://187.85.237.34:8825/ipvt_004
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BABY SHART
+https://newidco-babysharktv-2-mx.samsung.wurl.tv:443/3000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SUPER STOM
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f120f41b7d403000783a6d6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=860dbb8f-a84f-4853-b147-60207c674abf&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DRAMA
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1210d14ae1f80007bafb1d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SUSPENCE
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f171d3442a0500007362f22/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NICK
+http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NICKELODEON
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12151794c1800007a8ae63/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY KIDS CAST
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/140
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TOON
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NICK
+http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Jackie cham
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/6079c1539b05aa0007a57495/572723/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Jackie cham
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/6079c1539b05aa0007a57495/572723/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w985115768.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CON
+https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Homem aranha
+https://videos.negociosmarkeitng.com/file/Spxnet/f/Homem-Aranha%20-%20Sem%20Volta%20Para%20Casa%202022%201080p%20BluRay%20DUAL%205.1.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MORBIUS
+http://authentic-video.cloud:80/suzan07.php?b=seguro/dub/526896.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x1.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x3.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x4.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x5.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x6.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x7.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x8.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x9.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PLANETA PRE ESTORICO
+http://shd07.lionflixapp.xyz:80/token/SHD7/95171/1x1.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 3 TONELADAS
+http://shd07.lionflixapp.xyz/token/SHD7/158762/1x3.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DOUTOR ESTRANHO E ARQUIMERO DA LOUCURA
+http://sub9.friday.bid:80/token:B6cSoCS2uSrDHPG6I/freak/dub/453395.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", JURASSIC WOLD
+http://sub9.friday.bid:80/token:B6cSoCS2uSrDHPG6I/freak/dub/507086.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Miami
+http://server.miamitvchannel.com:80/miamitv/smil:miamitvAPP1/chunklist_w1814734759_b1896000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES DE AÇÃO
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f120f41b7d403000783a6d6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=860dbb8f-a84f-4853-b147-60207c674abf&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN SD
+http://187.85.237.8:8825/ipvt_005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC FHD
+http://45.232.196.7:5000/live/AMC/720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FX HD
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR CHANNEL
+http://187.85.237.3:8220/ipvt_002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT FHD
+http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
